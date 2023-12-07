@@ -1,0 +1,1 @@
+<?php echo form_dropdown('parent_cat',$combo_parentcat,array('id'=>'parent'))?>

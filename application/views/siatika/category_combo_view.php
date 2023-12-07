@@ -1,0 +1,1 @@
+<?php echo form_dropdown('id_cat', $combo_cat, $selected)?>
